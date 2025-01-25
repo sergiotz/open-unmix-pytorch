@@ -9,6 +9,7 @@ OSU/
 *.mp3
 *.pth.tar
 env*/
+.idea
 
 #####=== Python ===#####
 
